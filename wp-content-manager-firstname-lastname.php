@@ -1,10 +1,11 @@
 <?php
 /**
  * Plugin Name: Custom Content Manager
- * Plugin URI: https://www.linkedin.com/in/nirav-tandel
+ * Plugin URI: https://github.com/tandelnirav210/wp-content-manager-firstname-lastname
  * Description: Manage and display promotional blocks with advanced features
  * Version: 1.0.0
  * Author: Nirav Tandel
+ * Author URI: https://www.linkedin.com/in/nirav-tandel
  * License: GPL v2 or later
  * Text Domain: wp-content-manager
  */
